@@ -115,7 +115,7 @@ void addMovie(int id, char title, char showtime, int price, float rating)
     newnode->next=NULL;
 
     if(first=NULL)
-    {
+    {fgdghadf
         first=last=newnode;
     }
     else{
