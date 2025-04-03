@@ -1,8 +1,3 @@
-
-/*****************Movie Ticket Booking Application*****************/
-/* Creating Movie ticket  booking application using c with functions to perform operations like register ,login, booking ,view ticket ,cancel ticket ,update a movie 
-using single linked list ,switch statements, if else conditions,  loops etc..*/
-//header files 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
